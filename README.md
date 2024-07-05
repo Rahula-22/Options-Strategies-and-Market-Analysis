@@ -3,8 +3,8 @@
  Greeks (𝛿, 𝜃, 𝛾) for risk management.
  Developed ReactJS platform for creating, visualizing, executing standard/custom strategies with interactive payoff charts.
 # Project overview 
-This project delves into the sophisticated world of option derivatives and their myriad strategies. We meticulously applied the Binomial Model, Black-Scholes-Merton, and Monte Carlo methods to accurately value options, guiding financial decision-making processes with precision.
+This project involves learning various intricacies of option derivatives and different option strategies.
 
-Harnessing the power of the GARCH Model, we forecasted market volatility, utilizing advanced option strategies such as Max Pain, Iron Condor, Straddle, Butterfly, and Spreads. Our approach leveraged critical option Greeks (𝛿, θ, γ) to optimize risk management and enhance strategic outcomes.
-
-A standout feature of this project is the development of a cutting-edge option strategy platform using ReactJS. This platform empowers users to craft, visualize, and execute both standard and bespoke option trading strategies. We integrated dynamic payoff charts, enabling comprehensive risk analysis and precise evaluation of profit and loss scenarios.
+Applied Binomial Model, Black-Scholes-Merton, and Monte Carlo methods for valuing options in financial decision-making.
+Implemented the GARCH Model for forecasting volatility in financial markets. Utilized advanced option strategies including Max Pain, Iron Condor, Straddle, Butterfly, Spreads, etc., leveraging option Greeks (δ, θ, γ) to optimize risk management.
+Developed an option strategy platform using ReactJS, enabling users to create, visualize, and execute standard and custom option trading strategies. Integrated interactive payoff charts to facilitate risk analysis and evaluate profits/losses.
